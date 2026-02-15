@@ -51,7 +51,7 @@ I love building diverse projects—whether they're practical, academic, or perso
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Baixerastheo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -64,15 +64,28 @@ I love building diverse projects—whether they're practical, academic, or perso
 
 ---
 
-## Contribution Graph
+## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baixerastheo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baixerastheo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-## Currently Working On
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Baixerastheo/Livehub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baixerastheo&repo=Livehub&theme=tokyonight&hide_border=true" alt="Repo 1"/>
+  </a>
+  <a href="https://github.com/Baixeras/my-e-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baixerastheo&repo=my-e-commerce&theme=tokyonight&hide_border=true" alt="Repo 2"/>
+  </a>
+</div>
+
+---
+
+## 💼 Currently Working On
 
 - 🔭 Building cloud-native applications
 - 🌱 Learning advanced Kubernetes orchestration
@@ -81,7 +94,7 @@ I love building diverse projects—whether they're practical, academic, or perso
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   
