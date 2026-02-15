@@ -54,12 +54,7 @@ I love building diverse projects—whether they're practical, academic, or perso
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baixerastheo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baixerastheo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baixerastheo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -68,19 +63,6 @@ I love building diverse projects—whether they're practical, academic, or perso
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baixerastheo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Baixerastheo/Livehub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baixerastheo&repo=Livehub&theme=tokyonight&hide_border=true" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/Baixeras/my-e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baixerastheo&repo=my-e-commerce&theme=tokyonight&hide_border=true" alt="Repo 2"/>
-  </a>
 </div>
 
 ---
